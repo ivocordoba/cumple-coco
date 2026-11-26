@@ -1,6 +1,6 @@
 # Cumple de Coco
 
-Planificador retro adaptable a celulares. La lista se comparte entre quienes abran la página e ingresen la contraseña. Todos pueden editar invitados, marcar quién aporta a Quinta, Comida y Alcohol, y agregar, quitar o cambiar cantidades y precios de las compras.
+Planificador retro adaptable a celulares. La lista se comparte entre quienes abran la página e ingresen la contraseña. Todos pueden editar invitados, marcar quién aporta a Quinta, Comida, Bebida y Alcohol, y agregar, quitar o cambiar cantidades y precios de las compras. Cada persona ve junto a su nombre cuánto debe pagar según las secciones marcadas.
 
 ## Acceso compartido y Supabase
 
